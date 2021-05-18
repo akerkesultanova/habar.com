@@ -3,7 +3,7 @@
 *  Used MaterializeCSS as a CSS Library.
 
 
-### Sring Semester 2021. Discipline: Java Enterprise Edition 2 + React JS. Task 2
+### Sring Semester 2021. Discipline: Java Enterprise Edition 2 + React JS. Task 2 is created by Zhuanyshev Ilyas
 Problem 1
 * Create a simple ReactJS Client application by using ReactJS Framework. As a CSS Library, you may use Bootstrap or MaterializeCSS.
 * The Project is related with news portal. You must create news portal according to given example in picture: The front-end design should be something like this:
