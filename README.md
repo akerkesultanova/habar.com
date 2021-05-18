@@ -1,3 +1,21 @@
+## HABAR.COM - a simple news portal ReactJS Client Application
+*  Created by using ReactJS Framework.
+*  Used MaterializeCSS as a CSS Library.
+
+
+# Discipline: Java Enterprise Edition 2 + React JS
+# Sring Semester 2021 - Task 2
+* Store user data in array. So, you will be able to sign in by inserting correct email and password.
+* As a state, you may use React Hooks.
+* Use React Router DOM for routing your pages.
+* Store all news and blogs in array. You must be able, add them by signing in into your account. News must be divided into categories, such as Sport, Politics, Technology, Business etc.
+* To filter your news by categories, you will use React Router DOM.
+* Divide your project into components (class or function).
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
